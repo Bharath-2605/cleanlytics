@@ -40,7 +40,6 @@ kiwisolver==1.4.7
 langdetect==1.0.9
 MarkupSafe==3.0.2
 matplotlib==3.9.4
-mediapipe==0.10.21
 ml_dtypes==0.5.1
 mpmath==1.3.0
 networkx==3.2.1
